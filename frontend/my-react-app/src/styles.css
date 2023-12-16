@@ -1,0 +1,23 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.loading {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.circular-progress {
+    margin-top: 20px;
+}
